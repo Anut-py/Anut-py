@@ -3,7 +3,7 @@
 
 I mainly use Java Spring Boot and Angular 8 for making webapps.
 
-I know Python, Java, and web technologies.
+I know Python, Java, and web technologies (HTML, CSS, JS, Typescript, Angular).
 
 My itch.io account is [here](https://itch.io/profile/anut).
 
