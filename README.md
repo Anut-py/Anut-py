@@ -18,3 +18,6 @@ I have made these apps:
 The last project was made with [PYee1999](https://github.com/PYee1999) and [CYee3589](https://github.com/CYee3589).
 
 It was organized by [Beltran02148](https://github.com/Beltran02148). The source code can be found [here](https://github.com/PYee1999/sequence-hackathon).
+
+I am also working on an application called the Wealth Management Platform. It is under development. I am working with the people mentioned above
+and [lesteryee](https://github.com/lesteryee). The website is live at https://wealth-mp.github.io/wmp.
