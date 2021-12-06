@@ -1,7 +1,7 @@
 
 # Hello!
 
-I mainly use Java Spring Boot and Angular 8 for making webapps.
+I mainly use Java Spring Boot and Angular 8+ for making webapps.
 
 I know Python, Java, and web technologies (HTML, CSS, JS, Typescript, Angular).
 
