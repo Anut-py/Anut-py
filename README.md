@@ -12,6 +12,7 @@ I have made these apps:
 - [The Inner Workings of the Cell](https://anut-py.github.io/cells/) (School project)
 - [Earth Advertisement](https://anut-py.github.io/earth-advertisement/home) (School project)
 - [The Structures of Ancient Egypt](https://anut-py.github.io/egypt-project/home) (School project)
+- [Home energy use](http://home-energy-use.herokuapp.com/home) (School project)
 - [Anut's Platformer](https://anut.itch.io/anuts-platformer) (Game)
 - [Jumpie Tingie](https://anut.itch.io/jumpie-tingie) (Game)
 - [Online Sequence Game](https://sequence-hackathon.herokuapp.com) (Hackathon / 10 week project)
